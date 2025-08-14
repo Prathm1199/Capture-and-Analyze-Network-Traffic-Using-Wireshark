@@ -25,7 +25,7 @@ Capture live network packets and identify basic protocols and traffic types.
    - `tcp` → Transport layer protocol for HTTP and others
    - `arp` → Address resolution protocol for mapping IP to MAC addresses
    - `icmp` → Ping requests and replies
-6. Saved the capture as `capture.pcap`.
+6. Saved the capture as `capture.pcapng`.
 
 ## Protocols Identified
 1. **HTTP** — Unencrypted web browsing traffic, showing GET requests and responses.
